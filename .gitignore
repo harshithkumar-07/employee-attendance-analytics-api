@@ -1,0 +1,17 @@
+
+.env
+.env.*
+!.env.example
+
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.vscode/
+
+# Assignment materials
+PROBLEM_STATEMENT.docx
+~$*.docx
+openapi.yaml
